@@ -19,8 +19,8 @@ Este é um projeto desenvolvido em sala de aula para a disciplina de Programaç�
 
 EQUIPE DE DESENVOLVIMENTO
 
-- [Vinicius](https://github.com/ViniTkL)
-- [Antonio](https://github.com/Mussatos)
-- [Gabriel](https://github.com/gandrade767)
-- [Lian](https://github.com/LianMiranda)
+- [Vinicius Azambuja](https://github.com/ViniTkL)
+- [Antonio Mussato](https://github.com/Mussatos)
+- [Gabriel Andrade](https://github.com/gandrade767)
+- [Lian Miranda](https://github.com/LianMiranda)
 - [Luis Eduardo Souza](https://github.com/LuisESouza)
